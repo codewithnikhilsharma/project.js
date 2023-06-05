@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Nikhil",
+      "lastName": "Sharma",
+      "email": "nikhilsharmanikk53@gmail.com",
+      "dob": "2023-05-31T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "Microsoft",
+      "experience": 8,
+      "package": 20,
+      "id": 1
+    },
+    {
+      "firstName": "Ritik",
+      "lastName": "Deshwal",
+      "email": "ritik@gmail.com",
+      "dob": "2023-06-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "Google",
+      "experience": 7,
+      "package": 6,
+      "id": 4
+    }
+  ]
+}
